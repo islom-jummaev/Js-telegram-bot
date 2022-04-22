@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    background-color: black;
+    width: 500px;
+    margin: 400px auto;
+    text-align: center;
+    padding: 20px;
+    
+}
+input{
+    padding: 10px;
+    outline: none;
+
+}
+textarea{
+    outline: none;
+    padding: 10px;
+}
+.button{
+    /* background-color: black; */
+    background-color: brown;
+    color: #fff;
+    outline: none;
+    border: none;
+}
